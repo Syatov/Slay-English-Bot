@@ -1,6 +1,5 @@
 import logging
 import os
-import uuid
 import random
 import asyncio
 from aiogram import Bot, Dispatcher, types
